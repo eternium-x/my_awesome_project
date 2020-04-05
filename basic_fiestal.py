@@ -1,4 +1,5 @@
 # BASIC FIESTAL CIPHER
+# named after a scientist
 
 import hashlib
 import base64
