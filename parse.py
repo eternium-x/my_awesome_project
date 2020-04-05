@@ -1,6 +1,6 @@
 import argparse
 #this helps in executing python from terminal
-# this is awesome
+
 def add(a, b):
     return a+b
 
